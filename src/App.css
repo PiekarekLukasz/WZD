@@ -13,6 +13,18 @@
   }
 }
 
+#map{
+  background-color: #282c34;
+}
+
+#miss{
+  background-color: #282c34;
+  color: white;
+  border-color: red;
+  border-inline-start-width: 10px;
+  min-height: 150px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
